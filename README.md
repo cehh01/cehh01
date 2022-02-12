@@ -1,4 +1,4 @@
-### Olá
+### Olá, estou em faze de aprendizado em HTML e CSS.
 <div align="center">
   <a href="https://github.com/cehh01">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cehh01&layout=compact&theme=midnight-purple">
