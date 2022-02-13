@@ -3,16 +3,16 @@
 </div>
 
 <div align="center">
- Olá, estou em fase de aprendizado em HTML e CSS.
-  </div>
+  Olá, estou em fase de aprendizado em HTML e CSS.
+ </div>
   
 ##
 
 <div align="center">
-  <a href="https://github.com/cehh01">
+   <a href="https://github.com/cehh01">
    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cehh01&layout=compact&theme=midnight-purple">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cehh01&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  </div>
+ </div>
 
   ##
   
@@ -22,5 +22,5 @@
   </div>
 
   <div align="center">
-       <img align="center" alt="cat-pic" height="120" style="border-radius:50px;" src="https://3.bp.blogspot.com/-_g5IgEap-b4/XRzBFhjR5lI/AAAAAABGy-8/vgcjGjMRL-4bEDZynzGapkEYxaJo4p9BACLcBGAs/s1600/AW3925002_16.gif">
+     <img align="center" alt="cat-pic" height="120" style="border-radius:50px;" src="https://3.bp.blogspot.com/-_g5IgEap-b4/XRzBFhjR5lI/AAAAAABGy-8/vgcjGjMRL-4bEDZynzGapkEYxaJo4p9BACLcBGAs/s1600/AW3925002_16.gif">
   </div>
