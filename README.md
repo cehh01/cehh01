@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-##Olá, estou em faze de aprendizado em HTML e CSS.
+ Olá, estou em fase de aprendizado em HTML e CSS.
   </div>
   
 ##
