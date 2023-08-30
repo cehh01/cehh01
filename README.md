@@ -26,5 +26,6 @@
   </div>
   
 <div align="center">
-  <a href="https://www.udemy.com/user/cecilia-turcatto-fernandes-da-cruz/" target="_blank"><img align="center" alt="logoudemy" scr="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" target="_blank"/>
+  <a href="https://www.udemy.com/user/cecilia-turcatto-fernandes-da-cruz/" target="_blank"> <img scr="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/cecilia-turcatto/"> <img scr="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
