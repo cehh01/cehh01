@@ -26,5 +26,5 @@
   </div>
   
 <div align="center">
-  <img align="center" alt="logoudemy" height="30" width="40" scr="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
+  <a href="https://www.udemy.com/user/cecilia-turcatto-fernandes-da-cruz/"><img align="center" alt="logoudemy" height="30" width="40" scr="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
 </div>
