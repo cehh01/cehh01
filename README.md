@@ -28,5 +28,6 @@
 <div align="center">
   <a href="https://www.udemy.com/user/cecilia-turcatto-fernandes-da-cruz/" target="_blank"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cecilia-turcatto/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://replit.com/@CeciliaFernand3" target="_blank"><img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"></a>
 </div>
 
