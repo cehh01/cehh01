@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  Olá, estou em fase de aprendizado em HTML e CSS e Python.
+  Olá, estou em fase de aprendizado em HTML e CSS, Python e JavaScript.
  </div>
   
 ##
