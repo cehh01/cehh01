@@ -1,10 +1,4 @@
-<div align="center">
-  <img src="https://pa1.narvii.com/6829/c8dfa14dbe707b3365fd38029352dfa2ba8f28b7_hq.gif">
-</div>
 
-<div align="center">
-  Olá, estou em fase de aprendizado em HTML e CSS, Python e JavaScript.
- </div>
   
 ##
 
