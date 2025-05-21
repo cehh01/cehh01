@@ -1,15 +1,6 @@
 
   
 ##
-
-<div align="center">
-   <a href="https://github.com/cehh01">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cehh01&show_icons=true&theme=dracula"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cehh01&layout=compact&theme=dracula"/>
- </div>
-
-  ##
-  
   <div align="center">
     <img align="center" alt="cehh01-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="cehh01-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
