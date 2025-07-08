@@ -36,5 +36,4 @@
 <br clear="both">
 
 ![snake gif](https://github.com/cehh01/cehh01/blob/output/github-contribution-grid-snake.svg)
-
   
