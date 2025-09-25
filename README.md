@@ -30,12 +30,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="css3 logo"  />
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="35" alt="css3 logo"  />
+
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="35" alt="css3 logo"  />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/cecilia-turcatto/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
+  <a href="https://www.udemy.com/user/cecilia-turcatto-fernandes-da-cruz/" target="_blank"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" target="_blank"></a>
+
   <a href="https://www.udemy.com/user/cecilia-turcatto-fernandes-da-cruz/" target="_blank"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" target="_blank"></a>
 </div>
 
