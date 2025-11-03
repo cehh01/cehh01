@@ -24,16 +24,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" height="35" alt="jquery logo"  />
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/datatables/datatables-original.svg" height="35" alt="datatables logo"  />
-
+</div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="35" alt="css logo"  />
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
 
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
-</div>
-<div align="center">
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="35" alt="linux logo"  />
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="35" alt="git logo"  />
