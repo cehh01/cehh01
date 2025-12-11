@@ -53,9 +53,5 @@
 <br clear="both">
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cehh01/cehh01/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cehh01/cehh01/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cehh01/cehh01/output/pacman-contribution-graph.svg">
-</picture>
+![Pac-Man Animation](https://raw.githubusercontent.com/cehh01/cehh01/output/pacman-contribution-graph.svg)
 
