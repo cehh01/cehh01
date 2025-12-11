@@ -53,5 +53,5 @@
 <br clear="both">
 <br clear="both">
 
-![Pac-Man Animation](https://raw.githubusercontent.com/cehh01/cehh01/output/pacman-contribution-graph.svg)
+![Pac-Man Animation](https://raw.githubusercontent.com/cehh01/cehh01/output/pacman-contribution-graph-dark.svg)
 
