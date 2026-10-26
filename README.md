@@ -41,6 +41,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="35" alt="git logo"  />
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" height="35" alt="mariadb logo"  />
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" height="35" alt="docker logo"  />
+  
 </div>
 
 ###
