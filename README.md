@@ -23,6 +23,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" height="35" alt="jquery logo"  />
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/datatables/datatables-original.svg" height="35" alt="datatables logo"  />
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" height="35" alt="vue logo"  />
 </div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
