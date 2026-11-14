@@ -2,8 +2,8 @@
 <br clear="both">
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats-mu-dun.vercel.app/api?username=cehh01&show_icons=true&theme=midnight-purple"/>
-    <img height="180em" src="https://github-readme-stats-mu-dun.vercel.app/api/top-langs/?username=cehh01&layout=compact&theme=midnight-purple"/>
+    <img height="190em" src="https://github-readme-stats-mu-dun.vercel.app/api?username=cehh01&show_icons=true&theme=midnight-purple"/>
+    <img height="190em" src="https://github-stats-extended.vercel.app/api/top-langs?username=cehh01&layout=donut&langs_count=9&theme=midnight-purple"/>
 </div>
 
 <br clear="both">
